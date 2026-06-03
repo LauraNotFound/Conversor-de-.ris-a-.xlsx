@@ -2,7 +2,9 @@
 Script en python que convierte archivos .ris a .xlsx
 ---
 ### Para ejecutar el archivo
+```python
 py convert-ris-to-excel.py
+```
 
 ### Ingresa el nombre de tu archivo .ris con la extensión
 Ingresa el nombre del archivo RIS: example.ris
@@ -23,5 +25,6 @@ o
 Verifica que el nombre sea correcto y que esté en el directorio adecuado.
 
 ---
-Espero que este código te sea de ayuda en tu RSL ✨
+Espero que este código te sea de ayuda en tu RSL ✨  
+
 🍄
