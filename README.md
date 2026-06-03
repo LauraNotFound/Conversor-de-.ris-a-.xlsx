@@ -21,8 +21,8 @@ Procesamiento exitoso. 56 artículos exportados a example_articles.xlsx <br>
 Proceso finalizado. Puedes revisar tu Excel en el explorador de archivos.
 
 ### De lo contrario podrías ver mensajes de error como los siguientes:
-No se pudo encontrar el archivo 'example'.
-o
+No se pudo encontrar el archivo 'example'. <br>
+o <br>
 Verifica que el nombre sea correcto y que esté en el directorio adecuado.
 
 ---
