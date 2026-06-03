@@ -1,6 +1,7 @@
 # Conversor-de-.ris-a-.xlsx  
----
-Script en Python que exporta los artículos de un archivo .ris a una tabla de Excel. Ideal para quienes están realizando RSL 🤓
+
+Script en Python que exporta los artículos de un archivo .ris a una tabla de Excel. Ideal para quienes están realizando RSL 🤓  
+
 ### Para ejecutar el archivo
 ```python
 py convert-ris-to-excel.py
