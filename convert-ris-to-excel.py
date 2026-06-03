@@ -53,6 +53,8 @@ def parse_ris_to_excel(input_filepath, output_filepath):
 if __name__ == "__main__":
 
     ruta_entrada = input("Ingresa el nombre del archivo RIS: ")
+    if not ruta_entrada.lower().endswith('.ris'): # Si no termina en la extensión para RIS entonces se le agrega.
+        ruta_entrada += '.ris'
 
     ruta_salida= input("Ingresa el nombre del archivo Excel que almacenará los artículos: ")
     if not ruta_salida.lower().endswith('.xlsx'): # Si no termina en la extensión para Excel entonces se le agrega.
